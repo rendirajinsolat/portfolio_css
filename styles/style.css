@@ -1,18 +1,18 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap");
 
 :root {
-  --primaryTextColor: #232e35; /* Untuk title atau judul */
-  --secondaryTextColor: #656d72; /* Untuk text biasa seperti paragraph contohnya */
+  --primaryTextColor: #1a2a3a; /* Teks utama: navy gelap */
+  --secondaryTextColor: #5a6b7d; /* Teks sekunder: abu kebiruan */
 
-  --borderColor: #f1f1f1;
-  --lineColor: #d9d9d9; /* untuk line di pre-title */
+  --borderColor: #e1e8f0;
+  --lineColor: #cbd5e1;
 
-  --primaryBackgroundColor: #fff;
-  --secondaryBackgroundColor: #fbfbfb;
-  --thirdBackgroundColor: #f5f3fe;
+  --primaryBackgroundColor: #ffffff; /* Putih bersih */
+  --secondaryBackgroundColor: #f7f9fc; /* Biru sangat muda */
+  --thirdBackgroundColor: #eaf2fb; /* Soft baby blue */
 
-  --primaryIconColor: #7e74f1;
-  --primaryIconColorHover: #5d51e8;
+  --primaryIconColor: #3a7bd5; /* Biru elegan (royal blue) */
+  --primaryIconColorHover: #2c5ea8; /* Biru lebih gelap saat hover */
 
   --sectionPadding: 6rem 0;
 
